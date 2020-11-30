@@ -53,7 +53,7 @@ async def button(bot, update: CallbackQuery):
                     except:
                         pass
                     try:
-                        await update.message.edit_text("🚦🚦 Stopped 🚦🚦")
+                        await update.message.edit_text("🚧🚦 Stopped 🚦🚧")
                     except:
                         pass
             else:
