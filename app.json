@@ -1,7 +1,7 @@
 {
   "name": "VideoCompressBot",
   "description": "Telegram's best Video Compress Bot",
-  "logo": "https://telegra.ph/file/b687febf32e4d583fb1d4.jpg",
+  "logo": "https://telegra.ph/file/d9f092aa736dde7fd8efa.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -31,7 +31,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "699615803 809546777"
+      "value": "911289876"
     },
     "FINISHED_PROGRESS_STR": {
       "description": "should be a single character.",
