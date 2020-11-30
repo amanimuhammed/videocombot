@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://telegram.dog/VidComBot",
+  "success_url": "https://telegram.dog/TG_Compressor_bot",
   "website": "https://t.me/Amani_m_h_d",
-  "repository": "https://github.com/amanimuhammed/VidComBot",
+  "repository": "https://github.com/amanimuhammed/VideoComBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
